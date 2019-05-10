@@ -1,8 +1,9 @@
 #Tittle
-Biomass burnigh aerosol over West Africa
+Simulations of biomass burnigh aerosol over West Africa
 
 #Author
 Natali Hernandez
+otro
 
 # Introduction
 Whatever amuses me
