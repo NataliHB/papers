@@ -2,4 +2,10 @@
 Biomass burnigh aerosol over West Africa
 
 #Author
-Natali Hernandez 
+Natali Hernandez
+
+# Introduction
+Whatever amuses me
+
+
+ 
